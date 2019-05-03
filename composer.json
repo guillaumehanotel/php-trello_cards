@@ -1,0 +1,13 @@
+{
+    "name": "guillaumeh/trello-api",
+    "authors": [
+        {
+            "name": "Guillaume Hanotel",
+            "email": "guillaumehanotel@orange.fr"
+        }
+    ],
+    "require": {
+        "cdaguerre/php-trello-api": "@dev",
+        "vlucas/phpdotenv": "^3.3"
+    }
+}
